@@ -1,0 +1,10 @@
+logs
+
+__pycache__
+.vscode
+archive
+negatif
+Pengujian
+templates
+
+capturedatasetreference.py
